@@ -5,6 +5,6 @@ Se le solicitará al usuario a través de una ventana externa que introduzca una
 En el caso de introducir la contraseña correcta, se le informará a través de la terminal y terminará el programa.
 
 
-##Librerías
+## Librerías
 
 Para la realización de este programa se ha utilizado la librería "Swing" de la API de Java, que permite a través de la clase "JOptionPane", solicitar datos al usuario a través de una venta externa.
